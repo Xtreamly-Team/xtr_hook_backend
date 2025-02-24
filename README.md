@@ -7,3 +7,14 @@ WIP: SCAFFOLDING
 1. Clone the repo
 2. cd into it
 3. pnpm install
+
+## Sys. Arch Design Draft v.0.4
+
+- hook_arch_backend deposit: 
+=>https://miro.com/welcomeonboard/Q1FSL3A4OVk0WHhIWi9EUWtPZkJocTNDUWJUT0w3d3VzSHlhaUtseEphZjI3UWFNVk5WdXlMNVVrZlFyYnN0c01xOGJBY2t6Z0FLZTlIUk9wbG0vc2lSSGl0MEpocmZyYmkzWjJqbFcrUjlNMXhKblhuZC9lOGZqckdnc1FhVnRBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=671362097295
+
+- hook_arch_backend withdraw: 
+=>https://miro.com/welcomeonboard/c0lBaG5tbi9WOEoyd2lQOEhPN2hML0NQeW5UTjVKYjU4Z1BxU045NFFRemV6ZEt2NHRrSWNsNG1jOU8zUkoraGhxa2d6emlwdG55TVNiM2YyNXdMa3lSSGl0MEpocmZyYmkzWjJqbFcrUjlxU1YrNGJ6K1ZqYjUvVHM3MThJNnlNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=619771977666
+
+- hook_arch_backend rebalance: 
+=>https://miro.com/welcomeonboard/Nlh4dm5pT2sxQ3owRmpkRTlvZWdDUlR4WDA4c1pGUWtSU0dLcERTcFpEWWtmek5CTHVEZmN3NUFEeW03WkhIcFlvNkh1UCtPcnAwaTJPUityZWNObHlSSGl0MEpocmZyYmkzWjJqbFcrUjhrQTIvZzFFeWVtSDZPcUlKMDFsSGZBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=980583367251
